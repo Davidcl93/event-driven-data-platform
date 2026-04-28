@@ -67,12 +67,41 @@ gcloud run deploy event-processor \
 
 ---
 
-## 📊 Example Metrics (Looker)
 
-- Total revenue by event type
-- Number of events per day
-- Product performance analysis
-- User activity tracking
+
+## 📊 Dashboard KPIs (Looker)
+
+![Looker Dashboard](docs/looker_dashboard.png)
+
+Below is a brief explanation of the main KPIs included in the dashboard:
+
+### 💰 Total Revenue
+Represents the total sum of all revenue generated from events (price field).  
+It provides a high-level view of the overall business performance.
+
+---
+
+### 👥 Total Users
+Shows the number of unique users who have generated at least one event.  
+It helps measure the size of the active user base.
+
+---
+
+### 📦 Product & Price Overview
+Displays product_id together with their associated prices.  
+It helps understand product-level structure and pricing distribution.
+
+---
+
+### 🧍 Users & Revenue Breakdown
+Shows revenue aggregated by user.  
+It helps identify high-value users and revenue concentration.
+
+---
+
+### 🔁 Events Distribution
+Shows the distribution of event types (e.g. purchase, view, click).  
+It helps understand user behavior and engagement patterns.
 
 ---
 
