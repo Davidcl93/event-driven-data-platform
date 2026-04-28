@@ -126,15 +126,15 @@ It helps understand user behavior and engagement patterns.
 
 ---
 
-## 🎯 Purpose
+## 🧠 What This Project Demonstrates
 
-This project demonstrates end-to-end Data Engineering capabilities:
+This project demonstrates end-to-end Data Engineering capabilities by building a real-world style event-driven data platform on GCP.
 
-- Designing event-driven architectures
-- Building serverless data pipelines
-- Working with cloud data warehouses
-- Creating analytics-ready datasets
-- Building BI dashboards for stakeholders
+- Designing and implementing an event-driven architecture for real-time data ingestion
+- Building a serverless data pipeline using Cloud Run for event processing
+- Storing and modeling data in a cloud data warehouse (BigQuery) for analytics
+- Transforming raw event data into analytics-ready datasets
+- Developing BI dashboards in Looker to extract business insights from data
 
 ---
 
