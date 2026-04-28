@@ -100,7 +100,7 @@ It helps identify high-value users and revenue concentration.
 ---
 
 ### 🔁 Events Distribution
-Shows the distribution of event types (e.g. purchase, view, click).  
+Shows the distribution of event types (e.g. purchase, view).  
 It helps understand user behavior and engagement patterns.
 
 ---
